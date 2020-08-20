@@ -7273,3 +7273,15 @@ a.credit {
 .section {
   padding-bottom: 0;
 }
+
+.experience-url{
+  color:white;
+  text-decoration: none;
+}
+.experience-url:hover{
+  color:white;
+  font-size: text;
+  text-decoration: none;
+  font-weight: bold;
+  
+}
